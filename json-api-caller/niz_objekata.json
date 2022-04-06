@@ -1,0 +1,62 @@
+[
+  {
+    "id": "54075985",
+    "name": "(2020 UN3)",
+    "absolute_magnitude_h": 24.3,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54135431",
+    "name": "(2021 GV3)",
+    "absolute_magnitude_h": 25.24,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54217974",
+    "name": "(2021 VA7)",
+    "absolute_magnitude_h": 24.83,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54265778",
+    "name": "(2022 FC2)",
+    "absolute_magnitude_h": 23.92,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54265894",
+    "name": "(2022 FF3)",
+    "absolute_magnitude_h": 27.734,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54268434",
+    "name": "(2022 GC)",
+    "absolute_magnitude_h": 29.071,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54268435",
+    "name": "(2022 GD)",
+    "absolute_magnitude_h": 25.787,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54268442",
+    "name": "(2022 GK)",
+    "absolute_magnitude_h": 27.44,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54268448",
+    "name": "(2022 GQ)",
+    "absolute_magnitude_h": 30.347,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54268811",
+    "name": "(2022 GB1)",
+    "absolute_magnitude_h": 23.67,
+    "is_potentially_hazardous_asteroid": false
+  }
+]
