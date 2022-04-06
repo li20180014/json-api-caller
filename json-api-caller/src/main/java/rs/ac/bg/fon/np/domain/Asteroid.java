@@ -32,8 +32,8 @@ public class Asteroid {
 	}
 	@Override
 	public String toString() {
-		return "Asteroid [id = " + id + ", name = " + name + ", absolute_magnitude_h = " + absolute_magnitude_h
-				+ ", is_potentially_hazardous_asteroid = " + is_potentially_hazardous_asteroid + "]";
+		return "Asteroid(id = " + id + "): name = " + name + ", Absolute Magnitude = " + absolute_magnitude_h
+				+ ", Is Potentially Hazardous = " + is_potentially_hazardous_asteroid;
 	}
 	
 	

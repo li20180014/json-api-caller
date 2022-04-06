@@ -1,5 +1,47 @@
 [
   {
+    "id": "3117460",
+    "name": "(2002 FT5)",
+    "absolute_magnitude_h": 21.58,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "3371669",
+    "name": "(2007 FF1)",
+    "absolute_magnitude_h": 21.8,
+    "is_potentially_hazardous_asteroid": true
+  },
+  {
+    "id": "3384183",
+    "name": "(2007 RR12)",
+    "absolute_magnitude_h": 19.8,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "3412755",
+    "name": "(2008 KV2)",
+    "absolute_magnitude_h": 21.2,
+    "is_potentially_hazardous_asteroid": true
+  },
+  {
+    "id": "3520209",
+    "name": "(2010 JO33)",
+    "absolute_magnitude_h": 25.0,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "3580962",
+    "name": "(2011 TJ)",
+    "absolute_magnitude_h": 21.2,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "3789618",
+    "name": "(2017 WZ12)",
+    "absolute_magnitude_h": 26.9,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
     "id": "54075985",
     "name": "(2020 UN3)",
     "absolute_magnitude_h": 24.3,
@@ -38,7 +80,7 @@
   {
     "id": "54268435",
     "name": "(2022 GD)",
-    "absolute_magnitude_h": 25.787,
+    "absolute_magnitude_h": 25.754,
     "is_potentially_hazardous_asteroid": false
   },
   {
@@ -57,6 +99,18 @@
     "id": "54268811",
     "name": "(2022 GB1)",
     "absolute_magnitude_h": 23.67,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54269060",
+    "name": "(2022 GS1)",
+    "absolute_magnitude_h": 27.268,
+    "is_potentially_hazardous_asteroid": false
+  },
+  {
+    "id": "54269393",
+    "name": "(2022 GV1)",
+    "absolute_magnitude_h": 26.59,
     "is_potentially_hazardous_asteroid": false
   }
 ]
